@@ -10,7 +10,7 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Salut, je m'appel Fabien :wave:"
+  main = "Salut, je m'appelle Fabien :wave:"
   sub = "Je suis développeur"
 
 [taxonomies]
