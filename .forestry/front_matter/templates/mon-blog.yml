@@ -22,4 +22,5 @@ fields:
   label: Image
   default: "/uploads/papa-confine-4.jpg"
 pages:
+- content/post/papa-confine-1.md
 - content/post/papa-confine.md
