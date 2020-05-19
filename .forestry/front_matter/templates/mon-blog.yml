@@ -21,3 +21,5 @@ fields:
     maxSize: 64
   label: Image
   default: "/uploads/papa-confine-4.jpg"
+pages:
+- content/post/papa-confine.md
